@@ -1,0 +1,32 @@
+.paragraph-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .textarea-container {
+    margin-top: 20px;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: vertical;
+    min-height: 150px;
+  }
+  
+  .word-count {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #0072bc;
+  }
+  
